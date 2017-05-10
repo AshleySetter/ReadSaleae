@@ -1,3 +1,5 @@
+# Author = Ashley Setter
+
 import struct
 import numpy as _np
 
