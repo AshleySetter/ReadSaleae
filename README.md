@@ -1,2 +1,2 @@
 # ReadSaneae
-Library for loading binary files created by Saneae dataloggers into python.
+Library for loading binary files created by Saleae dataloggers into python.
